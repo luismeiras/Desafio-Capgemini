@@ -1,4 +1,4 @@
-# Desafio de Programaçã Academia Capgemini
+# Desafio de Programação Academia Capgemini
 Este projeto tem como objetivo a solução do Desafio de Programaçã Academia Capgemini, composto por três questões.
 Os desafios se Encontram na pasta src com os nomes DesafioUm, DesafioDois, DesafioTres seguindo as questão do desafio, para compilar e necessário da run pela ide em cada classe main executável dos desafio.
 🚀 Começando
